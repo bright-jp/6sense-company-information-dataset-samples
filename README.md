@@ -1,4 +1,4 @@
-# 6sense Company Information Dataset Sample
+# 6sense Company Information データセットサンプル
 
 <h2>1,886件のレコードのサンプルデータセット</h2>
 
