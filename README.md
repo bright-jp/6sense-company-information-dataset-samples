@@ -1,54 +1,54 @@
 # 6sense Company Information Dataset Sample
 
-<h2>A sample dataset of 1,886 records</h2>
+<h2>1,886件のレコードのサンプルデータセット</h2>
 
-<a href="https://brightdata.com">
+<a href="https://brightdata.jp">
     <img src="https://github.com/luminati-io/6sense-company-information-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
-This **6sense Company Information Dataset Sample** includes **1,886 records** and was extracted using the **Bright Data API**.
+この**6sense Company Information Dataset Sample**には**1,886件のレコード**が含まれており、**Bright Data API**を使用して抽出されています。
 
 ## Data Points
 
 | Field Name | Description |
 |------------|-------------|
-| `name` | The official name of the company. |
-| `about` | A brief description of the company's mission or services. |
-| `num_employees` | The estimated number of employees working at the company. |
-| `type` | The classification of the company, such as private or public. |
-| `industries` | The industries in which the company operates, listed in an array format. |
-| `techstack_arr` | An array of technologies and tools utilized by the company. |
-| `country_code` | The ISO country code representing the company's headquarters location. |
-| `website` | The official website URL of the company. |
-| `social_media_urls` | URLs to the company's social media profiles. |
-| `company_news` | Recent news articles or updates related to the company. |
-| `last_updated` | The date and time when the company information was last updated. |
-| `url` | The URL linking to the company's profile on the 6sense platform. |
-| `logo` | The URL to the company's official logo image. |
-| `location` | The full address of the company's headquarters. |
-| `region` | The geographical region where the company is located, such as NA or EU. |
-| `id` | A unique identifier for the company within the dataset. |
-| `slintel_resources` | Additional resources or references from Slintel related to the company. |
-| `stock_symbol` | The stock symbol representing the company, if applicable. |
+| `name` | 会社の正式名称です。 |
+| `about` | 会社のミッションまたはサービスの簡単な説明です。 |
+| `num_employees` | 会社で働く従業員数の推定値です。 |
+| `type` | 非公開企業や公開企業など、会社の分類です。 |
+| `industries` | 会社が事業を行っている業界で、配列形式で一覧化されています。 |
+| `techstack_arr` | 会社が利用しているテクノロジーとツールの配列です。 |
+| `country_code` | 会社の本社所在地を表すISO国コードです。 |
+| `website` | 会社の公式WebサイトURLです。 |
+| `social_media_urls` | 会社のソーシャルメディアプロフィールへのURLです。 |
+| `company_news` | 会社に関連する最近のニュース記事または更新情報です。 |
+| `last_updated` | 会社情報が最後に更新された日時です。 |
+| `url` | 6senseプラットフォーム上の会社プロフィールへのリンクURLです。 |
+| `logo` | 会社の公式ロゴ画像のURLです。 |
+| `location` | 会社本社の完全な住所です。 |
+| `region` | NAやEUなど、会社が所在する地理的リージョンです。 |
+| `id` | データセット内における会社の一意識別子です。 |
+| `slintel_resources` | 会社に関連するSlintelの追加リソースまたは参照情報です。 |
+| `stock_symbol` | 該当する場合の、会社を表す株式シンボルです。 |
 
 
 ## Use Cases
 
 ### 1. Market Research and Analysis
-Utilize comprehensive company profiles to conduct market research and competitive analysis, identifying trends and opportunities in various industries.
+包括的な会社プロフィールを活用して市場調査と競合分析を行い、さまざまな業界におけるトレンドと機会を特定します。
 
 ### 2. Lead Generation and Outreach
-Leverage detailed company data to enhance lead generation strategies and design targeted outreach campaigns, increasing conversion rates.
+詳細な会社データを活用してリード獲得戦略を強化し、ターゲットを絞ったアウトリーチキャンペーンを設計することで、コンバージョン率を向上させます。
 
 ### 3. Business Intelligence and Strategy
-Integrate company information into business intelligence tools to develop strategic insights, optimize operations, and drive growth.
+会社情報をビジネスインテリジェンスツールに統合して戦略的インサイトを開発し、運用を最適化して成長を促進します。
 
 
 
 ## File Formats
 
-The dataset is available in multiple formats:
-- **CSV** (included in this sample)
+データセットは複数の形式で利用可能です。
+- **CSV**（このサンプルに含まれています）
 - **JSON**
 - **NDJSON**
 - **JSON Lines**
@@ -68,8 +68,8 @@ The dataset is available in multiple formats:
 
 ## Update Frequency
 
-Datasets can be updated on various schedules:
-- **Once** (one-time delivery)
+データセットはさまざまなスケジュールで更新できます。
+- **Once**（一回限りの配信）
 - **Daily**
 - **Weekly**
 - **Monthly**
@@ -78,14 +78,14 @@ Datasets can be updated on various schedules:
 
 ## Data Enrichment
 
-Enhance your dataset with additional data points based on your specific requirements. Contact us for custom enrichment options.
+特定の要件に基づいて追加のデータポイントでデータセットを強化できます。カスタムのエンリッチメントオプションについてはお問い合わせください。
 
-**[Get the full 6sense Company Information dataset](https://brightdata.com/products/datasets/6sense)**
+**[6sense Company Information datasetの完全版を入手する](https://brightdata.jp/products/datasets/6sense)**
 
 ---
 
 ## Free Access for Researchers and NGOs
 
-The Bright Initiative offers free access to **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic researchers, NGOs, and NPOs working on environmental and social causes. 
+Bright Initiativeは、環境および社会課題に取り組む学術研究者、NGO、NPO向けに、**[Web Scraper APIs](https://brightdata.jp/products/web-scraper)**および**[すぐに使えるデータセット](https://brightdata.jp/products/datasets)**への無料アクセスを提供しています。 
 
-Apply for free access at [brightinitiative.com](https://brightinitiative.com).
+[brightinitiative.com](https://brightinitiative.com) から無料アクセスを申請してください。
