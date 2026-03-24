@@ -1,53 +1,53 @@
-# 6sense Company Information データセットサンプル
+# 6sense 企業情報データセットサンプル
 
-<h2>1,886件のレコードのサンプルデータセット</h2>
+<h2>1,886件のレコードを含むサンプルデータセット</h2>
 
 <a href="https://brightdata.jp">
     <img src="https://github.com/bright-jp/6sense-company-information-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
-この**6sense Company Information Dataset Sample**には**1,886件のレコード**が含まれており、**Bright Data API**を使用して抽出されています。
+この**6sense 企業情報データセットサンプル**には**1,886件のレコード**が含まれており、**Bright Data API**を使用して抽出されました。
 
-## Data Points
+## データポイント
 
 | Field Name | Description |
 |------------|-------------|
-| `name` | 会社の正式名称です。 |
-| `about` | 会社のミッションまたはサービスの簡単な説明です。 |
-| `num_employees` | 会社で働く従業員数の推定値です。 |
-| `type` | 非公開企業や公開企業など、会社の分類です。 |
-| `industries` | 会社が事業を行っている業界で、配列形式で一覧化されています。 |
-| `techstack_arr` | 会社が利用しているテクノロジーとツールの配列です。 |
-| `country_code` | 会社の本社所在地を表すISO国コードです。 |
-| `website` | 会社の公式WebサイトURLです。 |
-| `social_media_urls` | 会社のソーシャルメディアプロフィールへのURLです。 |
-| `company_news` | 会社に関連する最近のニュース記事または更新情報です。 |
-| `last_updated` | 会社情報が最後に更新された日時です。 |
-| `url` | 6senseプラットフォーム上の会社プロフィールへのリンクURLです。 |
-| `logo` | 会社の公式ロゴ画像のURLです。 |
-| `location` | 会社本社の完全な住所です。 |
-| `region` | NAやEUなど、会社が所在する地理的リージョンです。 |
-| `id` | データセット内における会社の一意識別子です。 |
-| `slintel_resources` | 会社に関連するSlintelの追加リソースまたは参照情報です。 |
-| `stock_symbol` | 該当する場合の、会社を表す株式シンボルです。 |
+| `name` | 会社の正式名称。 |
+| `about` | 会社のミッションまたはサービスに関する簡潔な説明。 |
+| `num_employees` | その会社で働く従業員数の推定値。 |
+| `type` | 非公開企業または公開企業など、会社の分類。 |
+| `industries` | 会社が事業を展開している業界。配列形式で記載。 |
+| `techstack_arr` | 会社が利用している技術やツールの配列。 |
+| `country_code` | 会社の本社所在地を表すISO国コード。 |
+| `website` | 会社の公式WebサイトURL。 |
+| `social_media_urls` | 会社のソーシャルメディアプロフィールへのURL。 |
+| `company_news` | 会社に関連する最近のニュース記事または更新情報。 |
+| `last_updated` | 会社情報が最後に更新された日時。 |
+| `url` | 6senseプラットフォーム上の会社プロフィールにリンクするURL。 |
+| `logo` | 会社の公式ロゴ画像のURL。 |
+| `location` | 会社の本社の完全な住所。 |
+| `region` | NAやEUなど、会社が所在する地理的地域。 |
+| `id` | データセット内で会社を識別する一意の識別子。 |
+| `slintel_resources` | 会社に関連するSlintelの追加リソースまたは参照情報。 |
+| `stock_symbol` | 該当する場合、会社を表す株式ティッカーシンボル。 |
 
 
-## Use Cases
+## ユースケース
 
-### 1. Market Research and Analysis
-包括的な会社プロフィールを活用して市場調査と競合分析を行い、さまざまな業界におけるトレンドと機会を特定します。
+### 1. 市場調査と分析
+包括的な企業プロフィールを活用して市場調査や競合分析を実施し、さまざまな業界におけるトレンドや機会を特定します。
 
-### 2. Lead Generation and Outreach
-詳細な会社データを活用してリード獲得戦略を強化し、ターゲットを絞ったアウトリーチキャンペーンを設計することで、コンバージョン率を向上させます。
+### 2. リード獲得とアウトリーチ
+詳細な企業データを活用してリード獲得戦略を強化し、ターゲットを絞ったアウトリーチキャンペーンを設計することで、コンバージョン率を向上させます。
 
-### 3. Business Intelligence and Strategy
-会社情報をビジネスインテリジェンスツールに統合して戦略的インサイトを開発し、運用を最適化して成長を促進します。
+### 3. ビジネスインテリジェンスと戦略
+企業情報をビジネスインテリジェンスツールに統合して戦略的インサイトを構築し、オペレーションを最適化して成長を促進します。
 
 
 
-## File Formats
+## ファイル形式
 
-データセットは複数の形式で利用可能です。
+このデータセットは複数の形式で利用できます:
 - **CSV**（このサンプルに含まれています）
 - **JSON**
 - **NDJSON**
@@ -55,7 +55,7 @@
 - **Parquet**
 - **Compressed (.gz)**
 
-## Delivery Options
+## 提供オプション
 
 - **Email**
 - **API Download**
@@ -66,26 +66,26 @@
 - **Snowflake**
 - **SFTP**
 
-## Update Frequency
+## 更新頻度
 
-データセットはさまざまなスケジュールで更新できます。
-- **Once**（一回限りの配信）
+データセットはさまざまなスケジュールで更新できます:
+- **Once**（1回限りの配信）
 - **Daily**
 - **Weekly**
 - **Monthly**
 - **Quarterly**
 - **Custom schedules**
 
-## Data Enrichment
+## データエンリッチメント
 
-特定の要件に基づいて追加のデータポイントでデータセットを強化できます。カスタムのエンリッチメントオプションについてはお問い合わせください。
+特定の要件に基づいて追加のデータポイントでデータセットを強化できます。カスタムエンリッチメントオプションについてはお問い合わせください。
 
-**[6sense Company Information datasetの完全版を入手する](https://brightdata.jp/products/datasets/6sense)**
+**[完全な6sense 企業情報データセットを入手](https://brightdata.jp/products/datasets/6sense)**
 
 ---
 
-## Free Access for Researchers and NGOs
+## 研究者およびNGO向けの無料アクセス
 
-Bright Initiativeは、環境および社会課題に取り組む学術研究者、NGO、NPO向けに、**[Web Scraper APIs](https://brightdata.jp/products/web-scraper)**および**[すぐに使えるデータセット](https://brightdata.jp/products/datasets)**への無料アクセスを提供しています。 
+Bright Initiativeは、環境問題や社会課題に取り組む学術研究者、NGO、NPO向けに、**[Web Scraper APIs](https://brightdata.jp/products/web-scraper)**および**[すぐに使えるデータセット](https://brightdata.jp/products/datasets)**への無料アクセスを提供しています。 
 
-[brightinitiative.com](https://brightinitiative.com) から無料アクセスを申請してください。
+無料アクセスの申請は[brightinitiative.com](https://brightinitiative.com)から行えます。
